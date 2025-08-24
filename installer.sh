@@ -6,7 +6,7 @@ apt install unzip -y
 pip3 install --upgrade tqdm
 pip3 install --upgrade psutil
 
-wget https://github.com/maxdhctrl/vq/releases/download/release/ffmpeg.zip
+wget https://github.com/maxdhctrl/vq/releases/download/releases/ffmpeg.zip
 unzip ffmpeg.zip
 
 chmod +x start.sh
